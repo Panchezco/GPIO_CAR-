@@ -49,14 +49,14 @@ volatile uint32_t GPIO_PINX_REG[] = {
 		IO_21_REG,
 		IO_22_REG,
 		IO_23_REG,
-		0x00,
+		IO_24_REG,	        // PIN no valido
 		IO_25_REG,
 		IO_26_REG,
 		IO_27_REG,
-		0x00,
-		0x00,
-		0x00,
-		0x00,
+		IO_28_REG,  	        // PIN no valido
+		IO_29_REG,		// PIN no valido
+		IO_30_REG,		// PIN no valido
+		IO_31_REG,		// PIN no valido
 		IO_32_REG,
 		IO_33_REG,
 		I_34_REG,
