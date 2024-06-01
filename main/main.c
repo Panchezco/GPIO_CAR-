@@ -11,7 +11,7 @@
 #include "esp_tls.h"
 #include <string.h>
 //#include "driver/gpio.h"
-#include "C:\Users\DELL\OneDrive\Escritorio\RGB\components\Drivers_GPIO\include\gpio.h"
+#include "gpio.h"
 #include <stdio.h>
 
 
